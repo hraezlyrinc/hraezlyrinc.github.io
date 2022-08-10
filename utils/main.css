@@ -99,6 +99,7 @@
     height: 27rem;
     margin: 3rem;
    
+   
 }
 
 .img-card{
@@ -203,5 +204,9 @@
 
     .copyright-fl{
         font-size: 18px !important;
+    }
+
+    .bg-card{
+        padding-bottom: 4rem;
     }
 }
