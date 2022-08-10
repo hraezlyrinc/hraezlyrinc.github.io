@@ -181,28 +181,28 @@
 }
 
 
-@media only screen and (max-width:879px) {
+@media only screen and (max-width:900px) {
     .row{
         flex-direction: column !important;
     }
 
     .banner-image{
-        width: 50%;
+        width: 50% !important;
     }
 
     .header{
-        height: 10rem;
+        height: 10rem !important;
     }
 
     .bg-card{
-        width: 70%;
+        width: 70% !important;
     }
 
     .tagline{
-        padding: 2%;
+        padding: 2% !important;
     }
 
     .copyright-fl{
-        font-size: 18px;
+        font-size: 18px !important;
     }
 }
